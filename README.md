@@ -43,7 +43,7 @@ Clone this repository to a temporary location, and then copy the configuration f
 
 ```sh
 # Clone this configuration repository to a temporary folder
-git clone https://github.com/your-username/astronvim-config.git ~/astronvim-temp-config
+git clone https://github.com/your-username/Astronvim-dotfiles.git ~/astronvim-temp-config
 
 # Copy your custom configuration files over the default AstroNvim template.
 # The -f flag ensures that existing files are overwritten.
