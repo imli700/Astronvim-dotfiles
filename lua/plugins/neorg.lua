@@ -26,6 +26,7 @@ return {
           ["core.defaults"] = {},
           ["core.autocommands"] = {},
           ["core.integrations.treesitter"] = {},
+          ["core.integrations.snacks"] = {},    -- <--- Add this
           ["core.concealer"] = {},
           ["core.dirman"] = {
             config = {
